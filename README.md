@@ -14,3 +14,5 @@ This repository contains files for both local as well as Distributed Implementat
 
 4. Async_SGD.py : 
    This file contains code for execution of Distributed Asynchronous execution of Logistic Regression.
+4. SSP_SGD: 
+   This file contains code for execution of Bounded Distributed Asynchronous execution of Logistic Regression.
