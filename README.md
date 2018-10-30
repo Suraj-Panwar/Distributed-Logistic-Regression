@@ -8,3 +8,6 @@ This repository contains files for both local as well as Distributed Implementat
    
 2. BSP_SGD.py : 
    This file contains code for execution of Distributed Synchronous execution of Logistic Regression, the number of replicas per model can    be changed by changing SyncReplicasOptimizer.
+
+3. Async_SGD.py : 
+   This file contains code for execution of Distributed Asynchronous execution of Logistic Regression.
